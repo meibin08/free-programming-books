@@ -28,8 +28,15 @@
 + JavaScript设计模式与开发实践.pdf
 **网盘链接**：https://pan.baidu.com/s/1Bmbw6BzWmoCr04hVSDaigw 提取码: 3hi8
 
++ Vue.js权威指南-压缩版.pdf
+**网盘链接**：https://pan.baidu.com/s/1QKb2PXZHY8h2LfqC-usI-g  密码:oy70
+
++ Vue.js 实战@susouth.com.pdf
+**网盘链接**：https://pan.baidu.com/s/1XVtWtaFHUNU6wuSBr9ZSvw  密码:tse1
+
 + 深入React技术栈.pdf
 + 数据结构与算法JavaScript描述.pdf
+
 
 ####  更多书籍请查看上面的`frontend`目录，。
 
