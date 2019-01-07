@@ -6,6 +6,8 @@
 最近一时来了兴致，弄了个小程序，整理了些书籍，也在这里分享给大家，有需要的同学可以看看。
 比较不错的会罗列一下，详细可去看对应的目录，下面会把百度网盘的地址分享出来：
 
+QQ群：912594095
+
 ##### 小程序也可以直接阅读：
 ![IT平头哥联盟,苏南的专栏，码农书籍 小程序](https://user-images.githubusercontent.com/18324563/49295847-b1acfd00-f4f1-11e8-8bd7-64912bff7cb7.png "码农书籍 小程序")
 
@@ -35,10 +37,13 @@
 **网盘链接**：https://pan.baidu.com/s/1XVtWtaFHUNU6wuSBr9ZSvw  密码:tse1
 
 + 深入React技术栈.pdf
+**网盘链接**：https://pan.baidu.com/s/1PERGyw5OfBSDxGZGCRCQYw  密码:439k
+
 + 数据结构与算法JavaScript描述.pdf
+**网盘链接**：https://pan.baidu.com/s/16ELIxtV5GKaFsVeKD650oA  密码:ivd2
 
 
-####  更多书籍请查看上面的`frontend`目录，。
+####  更多书籍请查看上面的`frontend`目录。
 
 
 ## 后端类：
@@ -69,6 +74,11 @@
 + 百度云破解不限速版：[https://github.com/CodeTips/BaiduNetdiskPlugin-macOS](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS "分享破解百度云受限")
 + 推荐一个看源码神器Sourcegraph，Chrome插件，官网介绍：https://sourcegraph.com
 ，插件安装：https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack
+
++ Photoshop CC 2017 Mac版(破解版,含破解程序)：
+**网盘链接**：https://pan.baidu.com/s/1sKGy0g2VPmOIaAHfl8RfsQ  密码:mcz4
+
+
 ## 更多分享：
 + 博客：[IT平头哥联盟](https://susouth.com "IT平头哥联盟")
 + 如链接失效，请直接在小程序上阅读，或关注下方**公众号**，联系我获取。
@@ -135,4 +145,5 @@ keyword: "前端开发,前端开发工程师,前端资源,JavaScript,HTML5,CSS3,
 + [小姐姐对不喜欢的男孩到底有多残忍？](https://mp.weixin.qq.com/s/dhZSHSEvgGy5ZsxU_2erdA)
 + [扎心的项目上线瞬间，鬼TM知道你经历了什么](https://mp.weixin.qq.com/s/DB_err9_8u2UbAN8E1u3YA)
 
->欢迎持续关注，会不定期更新～😂
+> 欢迎持续关注，会不定期更新～😂
+
