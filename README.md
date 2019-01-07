@@ -57,7 +57,11 @@
 + Python编程：从入门到实践.pdf
 **网盘链接**：https://pan.baidu.com/s/1zfWAzCkFDGrRHRr0uc4c-A 提取码: xi7r
 
-
+## 软件/其他类：
++ 整理一些不错的破解软件方便大家使用
++ 百度云破解不限速版：[https://github.com/CodeTips/BaiduNetdiskPlugin-macOS](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS "分享破解百度云受限")
++ 推荐一个看源码神器Sourcegraph，Chrome插件，官网介绍：https://sourcegraph.com
+，插件安装：https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack
 ## 更多分享：
 + 博客：[IT平头哥联盟](https://susouth.com "IT平头哥联盟")
 + 如链接失效，请直接在小程序上阅读，或关注下方**公众号**，联系我获取。
