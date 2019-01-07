@@ -42,6 +42,19 @@ QQ群：912594095
 + 数据结构与算法JavaScript描述.pdf
 **网盘链接**：https://pan.baidu.com/s/16ELIxtV5GKaFsVeKD650oA  密码:ivd2
 
++ Refactoring_Improving_the_Design_of_Existing_Code，_2nd_Edition.pdf
+**网盘链接**：https://pan.baidu.com/s/1QugKfiBz5gRdtNQIAc06mA  密码:7410
+
++ react设计模式和最佳实践.pdf
+**网盘链接**：https://pan.baidu.com/s/1nlIFJQPLNvFH1r_4Y3JmBA  密码:puz7
+
++ Functional-Light JavaScript.pdf
+**网盘链接**：https://pan.baidu.com/s/1s45l3tMj7Hf-WtL-9QBDlw  密码:zzxa
+
++ 重构_改善既有代码的设计.pdf
+
++ 深入浅出Rxjs.pdf
+
 
 ####  更多书籍请查看上面的`frontend`目录。
 
@@ -68,6 +81,10 @@ QQ群：912594095
 
 + Python编程：从入门到实践.pdf
 **网盘链接**：https://pan.baidu.com/s/1zfWAzCkFDGrRHRr0uc4c-A 提取码: xi7r
+
++ 深度学习入门：基于Python的理论与实现.pdf
+**网盘链接**：https://pan.baidu.com/s/1TSbUFE4fGgwqMeLY83S2xw  密码:d3g4
+
 
 ## 软件/其他类：
 + 整理一些不错的破解软件方便大家使用
