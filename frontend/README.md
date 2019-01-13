@@ -10,6 +10,7 @@
 + 加群请记得备注暗号：666 
 
 ### 清单
+
 + ES6标准入门 第3版.pdf
 **网盘链接**：https://pan.baidu.com/s/1t8xMdSlkE8yyHAkdGg06ww 提取码: yrhe
 
@@ -52,6 +53,15 @@
 + 重构_改善既有代码的设计.pdf
 
 + 深入浅出Rxjs.pdf
+
++ WebGL编程指南.pdf
+**网盘链接**：https://pan.baidu.com/s/18dEVndoGHvFaCwR2OA3Wng  密码:2wna
+
++ JavaScriptDOM编程艺术第2版.pdf
+**网盘链接**：https://pan.baidu.com/s/1ywe321md9YapSr1DwYhBrw  密码:6r0b
+
++ 深入React技术栈.pdf
+**网盘链接**：https://pan.baidu.com/s/1wKwNM2PLMb7l4rLhPjGQug  密码:pb7x
 
 
 ## 其他分类传送口
