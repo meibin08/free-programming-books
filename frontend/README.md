@@ -14,6 +14,12 @@
 + Oreilly.Ajax.The.Definitive.Guide.Jan.2008.pdf
 **网盘链接**：https://pan.baidu.com/s/16AvpnhNK5whpZ8oIEMdoaA  密码:g8zh
 
++ 编写可维护的javascript@www.susouth.com.pdf
+**网盘链接**：https://pan.baidu.com/s/1yOsBmlGgfSXJgtwAVaniZA  密码:xg8l
+
++ JavaScript函数式编程@www.susouth.com.pdf
+**网盘链接**：https://pan.baidu.com/s/1J0OVYJb9gmCgV_Gkhi_Vyw  密码:8zk1
+
 + 编写高质量代码--Web前端开发修炼之道.pdf
 **网盘链接**：https://pan.baidu.com/s/1EmTwxB8sXzhl512_TkQsGQ  密码:obki
 
