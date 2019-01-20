@@ -11,6 +11,15 @@
 
 ### 清单
 
++ Oreilly.Ajax.The.Definitive.Guide.Jan.2008.pdf
+**网盘链接**：https://pan.baidu.com/s/16AvpnhNK5whpZ8oIEMdoaA  密码:g8zh
+
++ 编写高质量代码--Web前端开发修炼之道.pdf
+**网盘链接**：https://pan.baidu.com/s/1EmTwxB8sXzhl512_TkQsGQ  密码:obki
+
++ 算法谜题.pdf
+**网盘链接**：https://pan.baidu.com/s/19u7bSMEtJALaoqdqzYoBZw  密码:i28a
+
 + ES6标准入门 第3版.pdf
 **网盘链接**：https://pan.baidu.com/s/1t8xMdSlkE8yyHAkdGg06ww 提取码: yrhe
 
