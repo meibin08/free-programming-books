@@ -10,9 +10,15 @@
 
 ### 好文推荐：
 + [Webpack 中的 sideEffects 到底该怎么用？](https://zhuanlan.zhihu.com/p/40052192)
-
-
-
++ [猿兄请留步，耽误你几分钟，把MVVM原理还给你](https://mp.weixin.qq.com/s/3il51QPCeryXRUM-AG4L7w)
++ [告别预编译，CSS 直接写嵌套的日子就要来临～](https://mp.weixin.qq.com/s/979wCf9HaLhJGyFYPy9JmA)
++ [AST抽象语法树—最基础的JavaScript重点知识](https://mp.weixin.qq.com/s/8ruF8XFrLRyOrtulbBIR4A)
++ [2019 - Web开发技术指南和趋势，也是学不动指南](https://mp.weixin.qq.com/s/jXKxLSDfaWDpnc8JosdJhg)
++ [毕业一年左右的 前端 妹子 面经总结](https://mp.weixin.qq.com/s/swt4z8pmqFtY7CvQYlWXDg)
++ [九种跨域方式实现原理（完整版）](https://juejin.im/post/5c23993de51d457b8c1f4ee1)
++ [一个合格的Webpack4配置工程师素养：第一部分](https://juejin.im/post/5c4bfd89e51d45215c2e5a76)
++ [9102 年了，学点 Docker 知识](https://juejin.im/post/5c2c69cee51d450d9707236e)
++ [Preparing for a Front-End Web Development Interview at Top Tech Companies](http://davidshariff.com/blog/preparing-for-a-front-end-web-development-interview-in-2017/)
 
 
 ### 软件/其他类：
