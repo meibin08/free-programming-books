@@ -11,6 +11,10 @@
 
 ### 清单
 
+
++ Web安全开发指南.pdf
+**网盘链接**：https://pan.baidu.com/s/1_xJp69K-IvAG8T8d6H1ICQ  密码:uf4t
+
 + JavaScript忍者禁术(Secrets of the JavaScript Ninja中文版)_v1.0.pdf
 **网盘链接**：https://pan.baidu.com/s/160hKFH7PUn1FG1xCjSjnXQ  密码:hp55
 
