@@ -11,8 +11,12 @@
 
 ### 清单
 
++ JavaScript忍者禁术(Secrets of the JavaScript Ninja中文版)_v1.0.pdf
+**网盘链接**：https://pan.baidu.com/s/160hKFH7PUn1FG1xCjSjnXQ  密码:hp55
+
 + Oreilly.Ajax.The.Definitive.Guide.Jan.2008.pdf
 **网盘链接**：https://pan.baidu.com/s/16AvpnhNK5whpZ8oIEMdoaA  密码:g8zh
+
 
 + 编写可维护的javascript@www.susouth.com.pdf
 **网盘链接**：https://pan.baidu.com/s/1yOsBmlGgfSXJgtwAVaniZA  密码:xg8l
