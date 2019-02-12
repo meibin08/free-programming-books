@@ -1,7 +1,7 @@
 
 # [IT平头哥联盟](https://susouth.com/ "@IT·平头哥联盟，码农书籍，苏南的专栏")
 
-##  码农周报 2019年第五周(02-03)
+##  码农周报 2019年第五、六周(02-11)
 
 + `IT平头哥联盟`公众号 [2018年好文汇总推荐～](https://mp.weixin.qq.com/s/-BA4X3ScSSpsZRrUCyTuBw)
 + 进群请加群主：**su-south**
@@ -15,7 +15,9 @@
 + [Chameleon跨端框架—一个与Flutter比肩的开源作品](https://mp.weixin.qq.com/s/Kpc2t5moITjC0Xfrqlvoow)
 + [《精通CSS》第3版，抢先看！](https://www.yuque.com/itchina110/goodfe/xga7rc)
 + [面试最让你手足无措的一个问题：你的系统如何支撑高并发?](https://juejin.im/post/5c45aaee6fb9a049e6609115)
-
++ [2019年网络世界趋势](https://mp.weixin.qq.com/s/S2rhr-4Qs1yvDqNY02rscA)
++ [web页面录屏实现](https://juejin.im/post/5c601e2f51882562d029d583)
++ [使用TestCafe进行web自动化测试](https://zhaozhiming.github.io/blog/2019/01/28/hello-testcafe/)
 
 ### 免费图库类：
 + 分享几个免费的商业级高清晰度图片下载
