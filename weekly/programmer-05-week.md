@@ -29,6 +29,7 @@
 + [Pxhere](https://pxhere.com/)
 + [泼辣有图](http://www.polayoutu.com/collections/)
 + [更多图库资源](https://www.yuque.com/ruanyf/share/free-photos)
++ [有趣的魔方](http://iamthecu.be/)
 
 ### 电子书籍
 + [frontend - 前端类书籍](../frontend "前端类电子书籍整理")
