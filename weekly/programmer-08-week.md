@@ -28,6 +28,7 @@
 + [在线伪造数据 - Mock](https://easy-mock.com/)
 + [各种特效开源](https://codepen.io/)
 + [ECMAScript 6 入门](http://es6.ruanyifeng.com/#README)
++ [carbon 6 入门](https://carbon.now.sh/ "Create and share beautiful images of your source code.Start typing or drop a file into the text area to get started.")
 
 ### 电子书籍
 + [frontend - 前端类书籍](../frontend "前端类电子书籍整理")
