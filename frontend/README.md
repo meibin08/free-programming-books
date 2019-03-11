@@ -11,6 +11,11 @@
 
 ### 清单
 
++ duokan_5511098118_6378d17e6addeb18ff4754537c453812_PHP_面向对象教程(强力推荐)
+**网盘链接**：https://pan.baidu.com/s/1v_igaNyermb6lF_5wDXMQA  密码:5rgw
+
++ 前端架构设计中文.pdf
+**网盘链接**：https://pan.baidu.com/s/14Y35Uo4P_On32YFV4WCANA  密码:2pzz
 
 + TCP-IP详解卷2：实现.pdf
 **网盘链接**：https://pan.baidu.com/s/1n-Rmp8zr5RtDZnytPHSIKg  密码:geo9
