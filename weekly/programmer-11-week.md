@@ -9,10 +9,16 @@
 + 加群请备注暗号：666 
 
 ### 好文推荐：
-
-
++ [v8是怎么实现更快的 await ？](https://mp.weixin.qq.com/s/fzyzQxZEXsHV8Zs-OMLzJw)
++ [【译】ES10功能完全指南 - 还学的动吗？](https://mp.weixin.qq.com/s/uQsPudEw4qxvkiQ0jwvc-w)
++ [[译]Flutter 异步编程：Future、Isolate 和事件循环](https://zhuanlan.zhihu.com/p/59197944)
++ [网站性能优化实战—从12.67s到1.06s的故事](https://mp.weixin.qq.com/s/6L_DEtTd8V9yoccpEXf_dA)
++ [从Webkit内部渲染机制出发，谈网站渲染性能优化](https://mp.weixin.qq.com/s/2uPfKPDLspqk5VgTcBZi6g)
++ [JS数据结构与算法_树](https://segmentfault.com/a/1190000018467422?_ea=8130240)
++ [一文学懂 TypeScript 的类型](https://segmentfault.com/a/1190000018495352)
 
 ### 软件/其他类：
++ [Markdown写作必须知道的图床知识](https://zhuanlan.zhihu.com/p/57898937)
 + [牛逼的vscode leetcode插件](https://github.com/jdneo/vscode-leetcode "Solve LeetCode problems in VS Code  Please make sure that Node is in your PATH environment variable. You can check this by running: node -v. 在 VS Code 中练习 LeetCode")
 + [Ant Design Landing - Ant Design Landing Page 的模板与规范](https://landing.ant.design/edit/index-cn#uid=5c89f68f44d90400666b7bd5 "Ant Design Landing 平台拥有丰富的各类首页模板，下载模板代码包，即可快速使用，也可使用首页编辑器，快速搭建一个属于你的专属首页")
 
