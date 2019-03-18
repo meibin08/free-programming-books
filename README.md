@@ -33,6 +33,9 @@
 + Photoshop CC 2017 Mac版(破解版,含破解程序)：
 **网盘链接**：https://pan.baidu.com/s/1sKGy0g2VPmOIaAHfl8RfsQ  密码:mcz4
 
++ Photoshop CC win版(破解版)：
+**网盘链接**：:https://pan.baidu.com/s/1d3c-KoSAHwk2wwLrwEUopg  密码:35c6
+
 
 ## 更多分享：
 + 博客：[IT平头哥联盟](https://susouth.com "IT平头哥联盟")
