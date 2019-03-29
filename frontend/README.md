@@ -12,6 +12,10 @@
 
 ### 清单
 
+
++ 47-JavaScript王者归来.pdf
+**网盘链接**：https://pan.baidu.com/s/1KLyHF5_xSpB7E5QM6BswmA  密码:gcoc
+
 + duokan_5511098118_6378d17e6addeb18ff4754537c453812_PHP_面向对象教程(强力推荐)
 **网盘链接**：https://pan.baidu.com/s/1v_igaNyermb6lF_5wDXMQA  密码:5rgw
 
