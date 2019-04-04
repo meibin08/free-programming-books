@@ -1,7 +1,7 @@
 
 # [IT平头哥联盟](https://susouth.com/ "@IT·平头哥联盟，码农书籍，苏南的专栏")
 
-##  码农周报 2019年第十二周(03-24)
+##  码农周报 2019年第十三、十四周(04-04)
 
 + `IT平头哥联盟`公众号 [2018年好文汇总推荐～](https://mp.weixin.qq.com/s/-BA4X3ScSSpsZRrUCyTuBw)
 + 想进微信群的小伙伴加群主：**su-south**,最新资源会第一时间在群内公布。
@@ -11,14 +11,16 @@
 ![IT平头哥联盟](https://user-images.githubusercontent.com/18324563/55072435-11916a00-50c6-11e9-86ff-b906d7040c2d.png)
 
 ### 好文推荐：
-+ [官宣 CSS 支持三角函数，未来会是什么？](https://mp.weixin.qq.com/s/uLYQywj62tLmPoGIpeFvPg)
-+ [React、TypeScript、Webpack项目搭建（一）](https://zhuanlan.zhihu.com/p/59023070)
-+ [ES5 to ESNext —  自 2015 以来 JavaScript 新增的所有新特性](https://mp.weixin.qq.com/s/E5oXSpey5X57n18y-XN-Ag)
-+ [看图说话， 详解perspective 和 preserve-3d](https://mp.weixin.qq.com/s/0-yNcqE7In6hXHTix2dIOw)
-+ [如何在 vue 中添加权限控制管理？](https://mp.weixin.qq.com/s/Sgw-GtEaFbQRNPcRtdNP4Q)
-+ [浅谈ES6中迭代器和生成器](https://zhuanlan.zhihu.com/p/59012215)
++ [JS之数组的几个牛逼操作～面试高频？](https://mp.weixin.qq.com/s/9vuD0o9yLIUMbfkA3rNHLQ)
++ [PNG图片压缩无损，但解析原理呢？](https://mp.weixin.qq.com/s/KHv-H4rXCQl_djykK-UG4A)
++ [跳槽？前端面试知识点目录大全～](https://mp.weixin.qq.com/s/B-5qfxNDtKtEtPMqLa9hqw "跳槽？前端面试知识点目录大全～")
++ [从高阶函数到库和框架之优秀前端进阶～](https://mp.weixin.qq.com/s/IPgp4qnmKbdM8j8JytSriQ)
++ [为什么说Suspense是一种巨大的突破？](https://mp.weixin.qq.com/s/q4TpXPYMDi3MGpHCLs7rHA)
++ [深入浅出 JavaScript 中的For循环之详解](https://mp.weixin.qq.com/s/t7cW7NucnarNAPyrmKwu_A "深入浅出 JavaScript 中的For循环之详解")
++ [[译] 现代 JavaScript 与 CSS 滚动实现指南](https://mp.weixin.qq.com/s/jsqJvPdS5GnWtXMu-daOJA "[译] 现代 JavaScript 与 CSS 滚动实现指南")
 
-
+### 软件/其他类：
++ [996.ICU 指的是 “工作 996”， 生病 ICU ](https://github.com/996icu/996.ICU "996.ICU 指的是 “工作 996”， 生病 ICU 。在中国，这是程序员之间的一种自嘲的说法，意思是按照 996 的模式工作，那以后就得进 ICU 了。")
 
 ### 电子书籍
 + [frontend - 前端类书籍](../frontend "前端类电子书籍整理")
