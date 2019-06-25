@@ -13,6 +13,10 @@
 ### 清单
 
 
++ JavaScript正则表达式迷你书（1.1版）.pdf
+**网盘链接**:https://pan.baidu.com/s/116IjeB2Kq8a-7x5trZ5TkQ  密码:bxzc
+
+
 + 47-JavaScript王者归来.pdf
 **网盘链接**：https://pan.baidu.com/s/1KLyHF5_xSpB7E5QM6BswmA  密码:gcoc
 
