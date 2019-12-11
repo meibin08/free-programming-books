@@ -14,6 +14,7 @@
 
 > [借助 PubNub ChatEngine 聊天引擎，使用 AWS Lex 搭建的 Vue.js 聊天室](https://javascriptweekly.com/link/50912/web)
 > 摘要：如何使用 Vue.js 和 ChatEngine 构建类似 Slack 的聊天应用程序 - 包括全球聊天、个人聊天，以及创建聊天机器人
+
 Javascript
 -------
 + [这可能是你见过最完善的微前端解决方案](https://mp.weixin.qq.com/s/LWYu19rYUQDJP8l3Q2DXeQ)

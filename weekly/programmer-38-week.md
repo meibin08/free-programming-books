@@ -14,12 +14,14 @@
 
 > [使用 Web Beacon API 来记录活动](https://javascriptweekly.com/link/50565/web)
 > 摘要：Beacon API 是一个（所有主流浏览器 支持 的） Web API，它提供了一种有效的方式，可以将页面中的数据，异步发送回服务器以进行日志记录
+
 Javascript
 -------
 + [使用 Vue.js 对一副扑克牌进行洗牌](https://javascriptweekly.com/link/50913/web)
 + [Node.js 的 23 个 最佳安全实践](https://javascriptweekly.com/link/50916/web)
 + [7 个有趣的 JavaScript 脑电波读取库 2018 版](https://javascriptweekly.com/link/50925/web)
 + [使用 Vanilla JavaScript 构建状态管理系统](https://javascriptweekly.com/link/50571/web)
+
 其他
 -------
 + [GitHub 已经在页面中移除 jQuery](https://www.javascriptc.com/2986.html)
