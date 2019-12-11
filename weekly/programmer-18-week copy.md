@@ -1,6 +1,6 @@
 
 # [IT平头哥联盟](https://susouth.com/ "@IT·平头哥联盟，码农书籍，苏南的专栏")
-码农周刊推荐
+码农周报推荐
 -------
 
 >  [**Google Chrome 工程师：JavaScript 不容错过的八大优化建议**](https://mp.weixin.qq.com/s/-1DsfRdNB951uxW5ahfgdw)
