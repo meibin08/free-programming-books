@@ -36,7 +36,7 @@ Javascript
 更多精彩
 -------
 
-![领略前端技术前沿，阅读IT平头哥联盟](https://user-images.githubusercontent.com/18324563/70604044-d2df1800-1c32-11ea-9fcd-dd6cd1740cd8.png)
+![领略前端技术前沿，阅读IT平头哥联盟](https://user-images.githubusercontent.com/18324563/70633966-608b2980-1c6c-11ea-8123-34f1fd13484e.png)
 
 
 
