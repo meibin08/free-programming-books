@@ -1,32 +1,33 @@
-# 码农周报第39、40期
+`码农周报第39、40期`
 
 码农周报推荐
 -------
 
-> [去大公司，还是小公司？](https://mp.weixin.qq.com/s/uYZJzF7WKsFG5WHa2X91uw)
-> 摘要：职场生涯总会面临着选择，尤其对我们这些 IT 人来说，跳槽的频率应该是所有行业中相当大的了。那么我们跳来跳去，究竟该选择什么样的公司 ？大 or 小…
+> [5 门前途美好的编程语言](https://mp.weixin.qq.com/s/s8QzKOEBTUGvLkHCY15vVw)
+> 摘要：Last month, we boldly proclaimed that a handful of programming languages are almost certainly doomed in the medium- to long-term…
 
-> [5 种可能衰败的编程语言](https://mp.weixin.qq.com/s/_BZZynyXRfIhLurYjX_szA)
-> 摘要：Not all programming languages endure forever. In fact, even the most popular ones inevitably crumble away, as new generations of developers embrace other languages and frameworks they find easier to work with…
+> [裸辞4个月，面试了30家公司，终于找到了理想的工作，同时也刷了1万字的经验给你](https://mp.weixin.qq.com/s/kV7RuoQTszkMnC8FoWE9nw)
+> 摘要：从春天辞职到立秋后决定入职某家工作，夏天悄悄溜走了，真的是恍如隔世。作为一个女生，连夏天的裙子都没有好好穿…
 
-> [忍者代码，代码审查大师～](https://mp.weixin.qq.com/s/J09PpF0cixjx4DBeC7EpGg)
-> 摘要：过去的程序员忍者使用这些技巧来使代码维护者的头脑更加敏锐。代码审查大师在测试任务中寻找它们……
+> [那么如何让你的 JS 写得更漂亮？](https://mp.weixin.qq.com/s/PEDc7KcV8a7WZpe05TuobQ)
+> 摘要：网上有不少关于JS编写优化建议，这里我根据自己的经验提出一些比较有用的意见……
 
-> [使用 Web Beacon API 来记录活动](https://javascriptweekly.com/link/50565/web)
-> 摘要：Beacon API 是一个（所有主流浏览器 支持 的） Web API，它提供了一种有效的方式，可以将页面中的数据，异步发送回服务器以进行日志记录
+> [手把手教你剖析,并手写十五个重要 API 的实现](https://mp.weixin.qq.com/s/Q_Q7G2843-c-8yaXA9ydmg)
+> 摘要：在面试中，常常会遇到一些手写XXX之类的面试题……
 
 Javascript
 -------
-+ [使用 Vue.js 对一副扑克牌进行洗牌](https://javascriptweekly.com/link/50913/web)
-+ [Node.js 的 23 个 最佳安全实践](https://javascriptweekly.com/link/50916/web)
-+ [7 个有趣的 JavaScript 脑电波读取库 2018 版](https://javascriptweekly.com/link/50925/web)
-+ [使用 Vanilla JavaScript 构建状态管理系统](https://javascriptweekly.com/link/50571/web)
++ [看文吃瓜：React遭遇V8性能崩溃的故事](https://mp.weixin.qq.com/s/pjpTY52e521MvVtsg0Ok9g)
++ [前端资源治理（一）](https://wecteam.io/2019/09/24/%E5%89%8D%E7%AB%AF%E8%B5%84%E6%BA%90%E6%B2%BB%E7%90%86%EF%BC%88%E4%B8%80%EF%BC%89/)
++ [技术探索：60 天急速自研，搭建前端埋点](https://www.yuque.com/sxc/front/yf3d0e)
++ [说说 JS 中的沙箱](https://juejin.im/post/5d8d76b8e51d45781332e928)
 
 其他
 -------
-+ [GitHub 已经在页面中移除 jQuery](https://www.javascriptc.com/2986.html)
-+ [码农进阶题库 - 每天弄懂一道面试题/Js小知识](https://www.javascriptc.com/interview-tips/zh_CN/javascript/)
-+ [“狗屁不通文章生成器”登顶GitHub热榜，分分钟写出万字形式主义大作](https://www.javascriptc.com/2628.html)
++ [7天长假，程序员相亲图鉴～](https://mp.weixin.qq.com/s/CgbDxHmpZqyH89P3NKwCmg)
++ [码农进阶题库 - 每天弄懂一道面试题/Js小知识](https://www.javascriptc.com/interview-tips/)
++ [长假正嗨时～ Vue 3.0 源码来了](https://mp.weixin.qq.com/s/bS1uTsEBa7m2k-oLyensoA)
++ [会向业务“砍需求”的技术同学，该具备哪 6 点能力？](https://mp.weixin.qq.com/s/43_X-FXSZ1dB0uedaKmuMQ)
 
 更多精彩
 -------
