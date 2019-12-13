@@ -14,6 +14,13 @@
 
 ## 列表
 
++ [码农周报第50期](./programmer-50-week.md)
++ [码农周报第49期](./programmer-49-week.md)
++ [码农周报第47、48期](./programmer-48-week.md)
++ [码农周报第45、46期](./programmer-46-week.md)
++ [码农周报第43、44期](./programmer-44-week.md)
++ [码农周报第41、42期](./programmer-42-week.md)
++ [码农周报第39、40期](./programmer-40-week.md)
 + [码农周报第37、38期](./programmer-38-week.md)
 + [码农周报第35、36期](./programmer-36-week.md)
 + [码农周报第33、34期](./programmer-34-week.md)
