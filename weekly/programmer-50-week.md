@@ -12,6 +12,11 @@
 >  [Node.js 中的 Buffer 究竟是什么](https://juejin.im/post/5d3a3b8ff265da1b8d166323)
 > 摘要： 从前端转入 Node.js 的童鞋对这一部分内容会比较陌生，因为在前端中一些简单的字符串操作已经满足基本的业务需求，有时可能也会觉得 Buffer、Stream 这些会很神秘
 
+>  [快讯！Nginx 之父被抓，写代码，竟能把自己写进牢里？](https://mp.weixin.qq.com/s/a8vTcbUp7fLR2tXLhnutKg)
+> 摘要： 网友：「 那么在职期间生了个儿子，请问公司负责养吗？」～
+
+
+
 >  [谁将取代 JavaScript？](https://www.javascriptc.com/2981.html)
 > 摘要：谁能取代 JavaScript 似乎是一个老生常谈的话题，很多人都提出过各自不同的看法。本文作者则提出了一个新的视角供你参考：JavaScript 风头正劲，但 WebAssembly 可能已经敲响了它的……
 
@@ -35,9 +40,11 @@ Javascript
 + [面试中突然遇到答不上的问题怎么办？](https://mp.weixin.qq.com/s/-SIx2QTgJn2Ght7cZ49YjA)
 + [vue 是如何对数组方法进行变异的？](https://www.javascriptc.com/interview-tips/zh_cn/vue/vue-array-variation/)
 
+
 其他
 -------
 
++ [Visual Studio Code为什么能这么牛X？](https://mp.weixin.qq.com/s/0QDqajhcnI-XFOTEp3vFmA)
 + [Vue 组件间通信六种方式（完整版）](https://www.javascriptc.com/2843.html)
 + [React Hook 的实现原理和最佳实践](https://zhuanlan.zhihu.com/p/75146261)
 + [“狗屁不通文章生成器”项目登顶GitHub热榜～](https://mp.weixin.qq.com/s/DxsFzHWzDSzPXQ8wzwUAsQ)
