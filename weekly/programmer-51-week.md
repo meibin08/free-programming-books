@@ -3,6 +3,9 @@
 码农周报推荐
 -------
 
+> [大写的服！84 岁的程序员](https://mp.weixin.qq.com/s/5fwjjZE60OIPHp0o1bGYsQ)
+> 摘要：都说学到老活到老，程序员更是如此，但又有多少人能做到呢，她（若宫雅子）做到了，连库克都夸赞她……
+
 >  [VS Code 1.41 发布！Web 版 VS Code 增强对 macOS/iPadOS 的支持](https://mp.weixin.qq.com/s/pMDIPgAgl2GDHDYpVD5ifg)
 > 摘要：北京时间 2019 年 12 月 13 日，微软发布了 Visual Studio Code 1.41 版本。让我们来看看有哪些主要的更新……
 
