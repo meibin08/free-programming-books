@@ -3,6 +3,10 @@
 码农周报推荐
 -------
 
+
+> [2019 年 JavaScript 现状调查报告火热出炉！](https://mp.weixin.qq.com/s/6I0eMWbZ--1MbvmH6QrVbQ)
+> 摘要：因 JavaScript 的生态系统发展未能尽如人意的原因，其又发布了 2019 年的 JavaScript 现状调查报告。今年的 JavaScript 状态是该调查的第四版，覆盖了 21,717 位受访者……
+
 > [2019前端大事件回顾(必读)～](https://mp.weixin.qq.com/s/cV2uNwkGqKCTnyE-L2rcNg)
 > 摘要：前端在生产和开发中占据着越来越重要的地位，PC 端、手机端、桌面端、智能手表端等等设备都离不开前端的身影。本文将围绕框架、编程语言、工具、React、Vue 等方面，全面回顾 2019 年前端与 Web 开发的大事……
 
