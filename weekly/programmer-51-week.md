@@ -3,6 +3,15 @@
 码农周报推荐
 -------
 
+> [聊聊2020年大前端发展趋势](https://mp.weixin.qq.com/s/ZGXZkeGKGxBNV9aWOXjMUA)
+> 摘要：迅速发展的前端开发，在每⼀年，都为开发者带来了新的关键词。2019 年已步⼊尾声，2020 年前端发展的关键词⼜将有哪些呢？发展的方向又会是什么呢？……
+
+
+
+> [聊聊2020年大前端发展趋势](https://mp.weixin.qq.com/s/ZGXZkeGKGxBNV9aWOXjMUA)
+> 摘要：迅速发展的前端开发，在每⼀年，都为开发者带来了新的关键词。2019 年已步⼊尾声，2020 年前端发展的关键词⼜将有哪些呢？发展的方向又会是什么呢？……
+
+
 > [大写的服！84 岁的程序员](https://mp.weixin.qq.com/s/5fwjjZE60OIPHp0o1bGYsQ)
 > 摘要：都说学到老活到老，程序员更是如此，但又有多少人能做到呢，她（若宫雅子）做到了，连库克都夸赞她……
 
@@ -33,6 +42,7 @@ Javascript
 其他
 -------
 
++ [进公司前是人 VS 进公司后是畜](https://mp.weixin.qq.com/s/B1x-79G39QI47PkY6RTOYA)
 + [前端部署发展史](https://mp.weixin.qq.com/s/T_Uig7XAljyl4E4OjjtdCw)
 + [CSS repeat() 函数详细介绍](https://www.zhangxinxu.com/wordpress/2019/12/css-repeat/)
 + [Web 性能领域常见的专业术语](https://github.com/berwin/Blog/issues/46)
