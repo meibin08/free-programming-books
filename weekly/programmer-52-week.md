@@ -3,6 +3,9 @@
 码农周报推荐
 -------
 
+> [请不不要让 Chrome 成为下一个 IE！](https://mp.weixin.qq.com/s/ECmrpBrMbyIO7St-uIY3tA)
+> 摘要：IE 的历史证明，如果一个浏览器占据绝对主导地位，那么就会带来一系列负面的连锁反应！当整个网络都以某一个浏览器引擎为标准时，那么开发人员很可能就会忽略其他浏览器……
+
 
 > [2019 年 JavaScript 现状调查报告火热出炉！](https://mp.weixin.qq.com/s/6I0eMWbZ--1MbvmH6QrVbQ)
 > 摘要：因 JavaScript 的生态系统发展未能尽如人意的原因，其又发布了 2019 年的 JavaScript 现状调查报告。今年的 JavaScript 状态是该调查的第四版，覆盖了 21,717 位受访者……
@@ -27,6 +30,7 @@ Javascript
 + [React vs Angular vs Vue.js——2019 该选谁?](https://www.javascriptc.com/2990.html)
 + [node进阶——之事无巨细手写koa源码](https://www.javascriptc.com/2962.html)
 + [深入研究 Angular 和 ASP.NET Core 3.0](https://www.javascriptc.com/2959.html)
++ [性感的Promise，拥抱ta然后扒光ta](https://www.javascriptc.com/2963.html)
 
 其他
 -------
