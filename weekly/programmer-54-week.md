@@ -19,7 +19,6 @@
 > 摘要：从 VSCode 的成功中，我们看到了好的设计和工程实践能创造多少奇迹。放眼软件产业，各个层面的模式不断被刷新，让人激动之余，也要求从业者不断提高技能水平。从个人学习的角度来看，了解这些模式诞生的前因后果，理解工程实践中的决策过程是非常有利于提高工程能力的
 
 
-
 Javascript
 -------
 
@@ -36,10 +35,16 @@ Javascript
 + [你对程序员的误会有多深？](https://mp.weixin.qq.com/s/gDdOm9bMO5A34CDNWTvRPA)
 
 
+
+
 更多精彩
 -------
 + 想与数十万前端一起交流、成长？
 + 加群主微信：**su-south**,邀请进入前端技术交流群，最新资源也会第一时间在群内公布。
++ **[:lollipop: 去在线查看周报体验更佳](https://www.javascriptc.com/category/javascript-weekly)**
+
+![领略前端技术前沿，阅读IT平头哥联盟](https://user-images.githubusercontent.com/18324563/70633966-608b2980-1c6c-11ea-8123-34f1fd13484e.png)
+
 
 
 

@@ -41,6 +41,7 @@ Javascript
 -------
 + 想与数十万前端一起交流、成长？
 + 加群主微信：**su-south**,邀请进入前端技术交流群，最新资源也会第一时间在群内公布。
++ **[:lollipop: 去在线查看周报体验更佳](https://www.javascriptc.com/category/javascript-weekly)**
 
 
-
+![领略前端技术前沿，阅读IT平头哥联盟](https://user-images.githubusercontent.com/18324563/70633966-608b2980-1c6c-11ea-8123-34f1fd13484e.png)
