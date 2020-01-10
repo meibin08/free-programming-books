@@ -1,6 +1,6 @@
-`Js中文网周刊第53期`
+`码农周报第53期`
 
-Js中文网周刊推荐
+码农周报推荐
 -------
 
 > [Web性能领域常见的专业术语！](https://mp.weixin.qq.com/s/6ld8Ihz5FLwk-X2-kaRE8Q)
