@@ -11,9 +11,13 @@
 ![IT平头哥联盟](https://user-images.githubusercontent.com/18324563/55072435-11916a00-50c6-11e9-86ff-b906d7040c2d.png)
 
 
++ **[:lollipop: 去在线查看周报体验更佳](https://www.javascriptc.com/category/javascript-weekly)**
 
 ## 列表
 
++ [码农周报第54期](./programmer-54-week.md)
++ [码农周报第53期](./programmer-53-week.md)
++ [码农周报第52期](./programmer-52-week.md)
 + [码农周报第51期](./programmer-51-week.md)
 + [码农周报第50期](./programmer-50-week.md)
 + [码农周报第49期](./programmer-49-week.md)
