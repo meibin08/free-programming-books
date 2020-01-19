@@ -40,6 +40,7 @@ Javascript
 
 编程书籍推荐
 -------
+
 - [Go 简易教程](https://www.javascriptc.com/books/go-tutorials/)
 - [Go Web 编程](https://www.javascriptc.com/books/go-web/)
 - [Go 入门指南](https://www.javascriptc.com/books/go-started/)
@@ -51,11 +52,14 @@ Javascript
 - [React Bits中文版](https://www.javascriptc.com/books/react-bits-cn/)
 - [TypeScript Deep Dive 中文版](https://www.javascriptc.com/books/typescript-deep-dive/)
 - [localForage 中文文档](https://books.javascriptc.com/localForage-cn/)
+- [📚互联网免费书籍汇总](https://www.javascriptc.com/books-navigation)
 
 其他
 -------
 + [程序猿幽默之被代码耽误的段子手](https://www.javascriptc.com/3564.html)
++ [“程序员”上淘宝代写春联，这创业接地气啊～](https://mp.weixin.qq.com/s/UgeCgzrr7coBcLFENEncxg)
 + [每天5分钟，搞懂一道面试题/Js小知识](https://www.javascriptc.com/interview-tips/)
++ [看看人家公司的年会，网友称赞:"羡慕啊"！](https://mp.weixin.qq.com/s/8iuwhiuxdpLQ0LWugxxokw)
 
 
 更多精彩
