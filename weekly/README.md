@@ -15,6 +15,7 @@
 
 ## 列表
 
++ [码农周报第56期](./programmer-56-week.md)
 + [码农周报第55期](./programmer-55-week.md)
 + [码农周报第54期](./programmer-54-week.md)
 + [码农周报第53期](./programmer-53-week.md)

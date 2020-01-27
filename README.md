@@ -70,6 +70,7 @@ keyword: "前端开发,前端开发工程师,前端资源,JavaScript,HTML5,CSS3,
 ---------
 
 + **[:lollipop: 去在线查看周报体验更佳](https://www.javascriptc.com/category/javascript-weekly)**
++ [码农周报第56期](./weekly/programmer-56-week.md)
 + [码农周报第55期](./weekly/programmer-55-week.md)
 + [码农周报第54期](./weekly/programmer-54-week.md)
 + [码农周报第53期](./weekly/programmer-53-week.md)
