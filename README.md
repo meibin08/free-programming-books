@@ -23,7 +23,7 @@
 
 + [weekly - 码农周报](#码农周报列表) -- **推荐**
 
-+
++ [📚程序员必备编程书籍—— 在线免费](https://www.javascriptc.com/books-navigation)
 
 + 其他 待拓展……
 
@@ -70,6 +70,8 @@ keyword: "前端开发,前端开发工程师,前端资源,JavaScript,HTML5,CSS3,
 ---------
 
 + **[:lollipop: 去在线查看周报体验更佳](https://www.javascriptc.com/category/javascript-weekly)**
++ [码农周报第60期](./weekly/programmer-60-week.md)
++ [码农周报第58期](./weekly/programmer-58-week.md)
 + [码农周报第57期](./weekly/programmer-57-week.md)
 + [码农周报第56期](./weekly/programmer-56-week.md)
 + [码农周报第55期](./weekly/programmer-55-week.md)
