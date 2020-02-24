@@ -15,6 +15,10 @@
 > [汇总ECMAScript 2016、2017、2018中所有新特性](https://www.javascriptc.com/3502.html)
 > 摘要：跟踪JavaScript (ECMAScript)中的新内容是很困难的，而且更难找到有用的代码示例。 因此，在本文中将介绍 TC39(最终草案) 在ES2016、ES2017和ES………
 
+> [前端 DSL 实践指南：内部 DSL](https://zhuanlan.zhihu.com/p/107947462)
+> 摘要：本文主要针对内部 DSL 这个重要分支在前端的实践做了展开说明，并结合 Javascript 和前端领域的一些典型范例阐述了8种实现风格，并且强调这些风格并非独立的「银弹」，而是互为补充………
+
+
 
 Javascript
 -------
@@ -23,6 +27,7 @@ Javascript
 + [深入理解JavaScript系列（结局篇）](https://www.javascriptc.com/3667.html)
 + [前端 JavaScript 错误分析实践](https://www.javascriptc.com/3181.html)
 + [几分钟优化你的国际化](https://www.javascriptc.com/3179.html)
++ [一个白学家眼里的 WebAssembly](https://ewind.us/2020/wasm-wa2/)
 
 
 互联网书籍推荐
@@ -49,6 +54,8 @@ Javascript
 + [技术债就像俄罗斯方块](https://mp.weixin.qq.com/s/ocUWEET7et43dcx5dEcA9w)
 + [每天弄懂一道面试题/Js小知识](https://www.javascriptc.com/interview-tips/)
 + [专属开发者的福利，1000刀+的羊毛在等你](https://mp.weixin.qq.com/s/B0BB_3gHghguuzwwn8p_qQ)
++ [Serverless 基本概念入门](https://zhuanlan.zhihu.com/p/108118832)
++ [Chrome 81 开始支持 Text fragments 功能](https://mp.weixin.qq.com/s/7F2UVeD-B-sNFQlAbkTWwA)
 
 
 更多精彩
