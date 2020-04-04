@@ -37,7 +37,6 @@ Javascript
 + [leetcode解题：寻找两个有序数组的中位数]https://www.javascriptc.com/interview-tips/zh_cn/javascript/operate-array/)
 + [leetcode解题：罗马数字怎么转整数](https://www.javascriptc.com/interview-tips/zh_cn/javascript/roman-number-arab-number/)
 
-
 其他
 -------
 + [带你深度解锁Webpack系列(优化篇)](https://mp.weixin.qq.com/s/Q3MqCTT4Ae1RSuaVNU9wig)
@@ -52,6 +51,4 @@ Javascript
 
 ![领略前端技术前沿，阅读IT平头哥联盟](https://user-images.githubusercontent.com/18324563/70633966-608b2980-1c6c-11ea-8123-34f1fd13484e.png)
 
-
-
-> 日期：2020.03.29
+> 日期：2020.04.04
