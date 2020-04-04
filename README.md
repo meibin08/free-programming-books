@@ -13,12 +13,12 @@
 
 ## 分类目录
 
-+ [leetcode、牛客网等面试题解题](#leetcode(力扣)解题 "力扣, 力扣中国, LeetCode, lingkou, LC, LCCN, LeetCode中国, LeetCode官网, 领扣, 领扣网, 领扣网络, 领扣中国, 刷题, 在线编程, LeetCode题库, 面经, 算法, 面试, 面试题, 机器学习, 大数据, 代码, 汇编, 编程, 开发, 程序员, 工程师, 码农, 程序猿, BAT, BAT面试, OJ, online judge, coding , interview, 技术面试, LeetCode中文版, leetcodechina")
-+ [frontend - 前端类书籍](./frontend "前端类电子书籍整理")
-+ [java - java/后端类书籍](./java "java或后端开发人员电子书籍整理")
-+ [test - 测试类书籍](./test "测试人员电子书籍整理")
-+ [weekly - 码农周报](#码农周报列表) -- **推荐**
-+ [📚程序员必备编程书籍—— 在线免费](https://www.javascriptc.com/books-navigation)
++ :koala: [leetcode、牛客网等面试题解题](#leetcode(力扣)解题 "力扣, 力扣中国, LeetCode, lingkou, LC, LCCN, LeetCode中国, LeetCode官网, 领扣, 领扣网, 领扣网络, 领扣中国, 刷题, 在线编程, LeetCode题库, 面经, 算法, 面试, 面试题, 机器学习, 大数据, 代码, 汇编, 编程, 开发, 程序员, 工程师, 码农, 程序猿, BAT, BAT面试, OJ, online judge, coding , interview, 技术面试, LeetCode中文版, leetcodechina")
++ :dragon: [frontend - 前端类书籍](#前端类书籍 "前端类电子书籍整理")
++ :wolf: [java - java/后端类书籍](./java "java或后端开发人员电子书籍整理")
++ :snake: [test - 测试类书籍](./test "测试人员电子书籍整理")
++ :ant: [weekly - 码农周报](#码农周报列表) -- **推荐**
++ 📚 [程序员必备编程书籍—— 在线免费](https://www.javascriptc.com/books-navigation)
 + 其他 待拓展……
 
 
@@ -62,6 +62,37 @@ leetcode(力扣)解题
 | 0001                                                         | [两数之和](https://github.com/meibin08/free-programming-books/issues/11) | Array   |          |
 
 
+
+前端类书籍
+---------
+
+| 编号  | 名称                                    | 类型 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
+| 🔥特别推荐 | **[程序员必备编程书籍 - 在线阅读](https://www.javascriptc.com/books-navigation)** | **==在线免费==** |
+| 0001 | :herb: [ 深入理解 JavaScript 异步](https://www.javascriptc.com/books/javascript-async-tutorial/) | 前端/JavaScript |
+| 0002 | :ox: [JavaScript 教程](https://www.javascriptc.com/books/javascript-tutorial/) | 前端/JavaScript |
+| 0003 | :rabbit: [Js 函数式编程指南](https://www.javascriptc.com/books/functional/) | 前端/JavaScript |
+| 0004 | :panda_face: [JavaScript 秘密花园](https://www.javascriptc.com/books/javascript-garden/) | 前端/JavaScript |
+| 0005 | :dolphin: [你不懂JavaScript](https://www.javascriptc.com/books/you-dont-know-js/) | 前端/JavaScript |
+| 0006 | :beetle: [TypeScript Deep Dive 中文版](https://www.javascriptc.com/books/typescript-deep-dive/) | 前端/TypeScript |
+| 0007 | :bug: [Typescript 中文文档](https://www.javascriptc.com/docs/typescript-manual) | 前端/TypeScript |
+| 0008 | :baby_chick:[TypeScript 入门教程](https://www.javascriptc.com/docs/ts-tutorial) | 前端/TypeScript |
+| 0009 | :elephant: [React Bits中文版](https://www.javascriptc.com/books/react-bits-cn/) | 前端/React |
+| 0010 | :honeybee: [Node.js 调试指南](https://www.javascriptc.com/books/node-in-debugging/) | 前端/Nodejs |
+| 0011 | :hamster: [一起学Node.js](https://www.javascriptc.com/books/learn-nodejs/) | 前端/Nodejs |
+| 0012 | :ram: [Node.js技术栈](https://www.javascriptc.com/books/nodejs-roadmap/) | 前端/Nodejs |
+| 0013 | :koala: [详解HTTP2](https://www.javascriptc.com/books/http2-explained/) | 前端/HTTP |
+| 0014 | :ant: [HTTP3深入浅出](https://www.javascriptc.com/books/http3-explained/) | 前端/HTTP |
+| 0015 | :rat: [Git 入门教程](https://www.javascriptc.com/books/git-tutorial/) | 前端/项目管理 |
+| 0016 | :monkey: [localForage 中文文档](https://www.javascriptc.com/books/localForage-cn/) | 前端/浏览器 |
+| 0017 | :hatching_chick: [ECMAScript 6 入门](https://www.javascriptc.com/docs/es6-tutorial) | 前端/ES6 |
+| 0018 | :poodle: [Babel中文文档](https://www.javascriptc.com/docs/babel-manual) | 前端/Babel |
+| 0019 | :dragon: [Weback4 中文网](http://webpack.javascriptc.com/) | 前端/Webpack |
+| 0020 | :fish: [十大经典排序算法](https://www.javascriptc.com/books/js-sorting-algorithm/) | 前端/算法 |
+| 0021 | :snail: [CSS权威指南（第四版）](https://www.javascriptc.com/books/css-the-definitive-guide-4th-zh/) | 前端/CSS |
+| 0022 | :pencil2: [码农题库 - 每日一题](https://www.javascriptc.com/interview-tips) | 前端/面试题 |
+|  |  |  |
+| :cyclone: | 更多[前端PDF电子书籍](./frontend) :exclamation:  | 百度网盘获取 |
 
 
 
