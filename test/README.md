@@ -11,6 +11,8 @@
 
 ### 清单
 
+🔥特别推荐： **[PYTHON 编程书籍导航 - 在线阅读](https://www.javascriptc.com/books-navigation)**
+
 + PYTHON WEB开发学习实录.pdf
 + PYTHON网络编程基础.pdf
 **网盘链接**：https://pan.baidu.com/s/1vTSkKbeyzfsX8SmywxPetQ 提取码: 5qap
