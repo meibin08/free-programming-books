@@ -12,30 +12,10 @@
 
 ### 清单
 
-| 名称 | 百度网盘                              | 类型 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| 🔥特别推荐 | **[程序员必备编程书籍 - 在线阅读](https://www.javascriptc.com/books-navigation)** | **==在线免费==** |
-| | **网盘链接**:https://pan.baidu.com/s/116IjeB2Kq8a-7x5trZ5TkQ  密码:bxzc | 网盘/PDF |
-| 🔥特别推荐 | <details>  <summary>**JavaScript正则表达式迷你书（1.1版)**</summary> > 网盘链接：https://pan.baidu.com/s/1n-Rmp8zr5RtDZnytPHSIKg  密码:geo9
-</details>
- | **==在线免费==** |
+🔥特别推荐： **[程序员必备编程书籍 - 在线阅读](https://www.javascriptc.com/books-navigation)**
 
-
-
-
-> 🔥No.0特别推荐： **[程序员必备编程书籍 - 在线阅读](https://www.javascriptc.com/books-navigation)**
-
-+  No.1： **JavaScript正则表达式迷你书（1.1版 )**
-> 链接：https://pan.baidu.com/s/116IjeB2Kq8a-7x5trZ5TkQ  密码:bxzc
-
-
-
-
-
-
-+
-+
-  **网盘链接**:https://pan.baidu.com/s/116IjeB2Kq8a-7x5trZ5TkQ  密码:bxzc
++ JavaScript正则表达式迷你书（1.1版 )
+**网盘链接**:https://pan.baidu.com/s/116IjeB2Kq8a-7x5trZ5TkQ  密码:bxzc
 
 
 + 47-JavaScript王者归来.pdf
@@ -123,41 +103,6 @@
 + 深入React技术栈.pdf
 **网盘链接**：https://pan.baidu.com/s/1wKwNM2PLMb7l4rLhPjGQug  密码:pb7x
 
-## 在线书籍推荐
-
-- [localForage 中文文档](https://www.javascriptc.com/books/localForage-cn/)
-- [Go 简易教程](https://www.javascriptc.com/books/go-tutorials/)
-- [Go Web 编程](https://www.javascriptc.com/books/go-web/)
-- [Go 入门指南](https://www.javascriptc.com/books/go-started/)
-- [高效的 Go 编程 Effective Go](https://www.javascriptc.com/books/effective-go-zh-en/)
-- [JavaScript 教程](https://www.javascriptc.com/books/javascript-tutorial/)
-- [Js 函数式编程指南](https://www.javascriptc.com/books/functional/)
-- [JavaScript 秘密花园](https://www.javascriptc.com/books/javascript-garden/)
-- [你不懂JavaScript](https://www.javascriptc.com/books/you-dont-know-js/)
-- [React Bits中文版](https://www.javascriptc.com/books/react-bits-cn/)
-- [TypeScript Deep Dive 中文版](https://www.javascriptc.com/books/typescript-deep-dive/)
-- [Git 入门教程](https://www.javascriptc.com/books/git-tutorial/)
-- [Bash 教程](https://www.javascriptc.com/books/bash-tutorial/)
-- [Node.js 调试指南](https://www.javascriptc.com/books/node-in-debugging/)
-- [一起学Node.js](https://www.javascriptc.com/books/learn-nodejs/)
-- [深入理解 JavaScript 异步](https://www.javascriptc.com/books/javascript-async-tutorial/)
-- [详解HTTP2](https://www.javascriptc.com/books/http2-explained/)
-- [HTTP3深入浅出](https://www.javascriptc.com/books/http3-explained/)
-- [The Linux Command Line 中文翻译版](https://www.javascriptc.com/books/linux-command-line/)
-- [Linux 内核揭秘](https://www.javascriptc.com/books/linux-insides-cn/)
-- [Python 算法与数据结构 中文版](https://www.javascriptc.com/books/python-data-structure-cn/)
-- [Flutter实战](https://www.javascriptc.com/books/flutter-in-action/)
-- [Spring Boot参考指南](https://www.javascriptc.com/books/spring-boot-reference-guide/)
-- [On Java 8 中文版《Java编程思想》](https://www.javascriptc.com/books/onjava8/)
-- [effective-java-3rd 中文翻译版本](https://www.javascriptc.com/books/effective-java-3rd-chinese/)
-- [Java 编程思想](https://www.javascriptc.com/books/think-in-java/)
-- [Java设计模式](https://www.javascriptc.com/books/design-pattern-java/)
-- [编程之法：面试和算法心得](https://www.javascriptc.com/books/the-art-of-programming-by-july/)
-- [Netty 实战(精髓)](https://www.javascriptc.com/books/essential-netty-in-action/)
-- [Netty 4.x 用户指南](https://www.javascriptc.com/books/netty-4-user-guide/)
-+ [Node.js技术栈](https://www.javascriptc.com/books/nodejs-roadmap/)
-+ [十大经典排序算法](https://www.javascriptc.com/books/js-sorting-algorithm/)
-+ [CSS权威指南（第四版）](https://www.javascriptc.com/books/css-the-definitive-guide-4th-zh/)
 
 ## 其他分类传送口
 + [java - java/后端类书籍](../java "java或后端开发人员电子书籍整理")
