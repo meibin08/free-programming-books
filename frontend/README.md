@@ -25,7 +25,7 @@
 
 > 🔥No.0特别推荐： **[程序员必备编程书籍 - 在线阅读](https://www.javascriptc.com/books-navigation)**
 
-> No.1： **[JavaScript正则表达式迷你书（1.1版 )](https://pan.baidu.com/s/116IjeB2Kq8a-7x5trZ5TkQ)**
++  No.1： **JavaScript正则表达式迷你书（1.1版 )**
 > 链接：https://pan.baidu.com/s/116IjeB2Kq8a-7x5trZ5TkQ  密码:bxzc
 
 
