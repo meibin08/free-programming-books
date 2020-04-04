@@ -10,6 +10,7 @@
 + 加群请记得备注暗号：666
 
 ### 清单
+🔥特别推荐： **[Java编程书籍导航 - 在线阅读](https://www.javascriptc.com/books-navigation)**
 
 + Java性能权威指南.pdf
 **网盘链接**：https://pan.baidu.com/s/177DTQ6oK9y1OL3ky0nL_lw 提取码: 3g8r
