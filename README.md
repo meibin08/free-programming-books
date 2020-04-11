@@ -113,7 +113,7 @@ leetcode解题
 
 | **[:lollipop: 在线查看体验更佳](https://www.javascriptc.com/category/javascript-weekly)** |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ……                                                           | [码农周报第67期](https://www.javascriptc.com/category/javascript-weekly) …………………………… 2020-04-12 |
+| [码农周报第68期](https://www.javascriptc.com/category/javascript-weekly) …………………………… 2020-04-19                                                          | [码农周报第67期](https://github.com/meibin08/free-programming-books/issues/81) …………………………… 2020-04-11 |
 | [码农周报第66期](https://github.com/meibin08/free-programming-books/issues/80) …………………………… 2020-04-04 | [码农周报第65期](https://github.com/meibin08/free-programming-books/issues/79) …………………………… 2020-03-28 |
 | [码农周报第64期](https://github.com/meibin08/free-programming-books/issues/78) …………………………… 2020-03-21 | [码农周报第63期](https://github.com/meibin08/free-programming-books/issues/70) …………………………… 2020-03-14 |
 | [码农周报第61、62期](https://github.com/meibin08/free-programming-books/issues/69) …………………… 2020-03-07 | [码农周报第59、60期](https://github.com/meibin08/free-programming-books/issues/68) …………………… 2020-02-22 |
