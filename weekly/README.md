@@ -15,6 +15,7 @@
 
 ## 列表
 
++ [码农周报第72期](https://github.com/meibin08/free-programming-books/issues/86)
 + [码农周报第71期](https://github.com/meibin08/free-programming-books/issues/85)
 + [码农周报第70期](https://github.com/meibin08/free-programming-books/issues/84)
 + [码农周报第69期](https://github.com/meibin08/free-programming-books/issues/83)
