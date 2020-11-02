@@ -113,7 +113,8 @@ leetcode解题
 
 | **[:lollipop: 在线查看体验更佳](https://www.javascriptc.com/category/javascript-weekly)** |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [码农周报第76期](<https://github.com/meibin08/free-programming-books/issues/88>) …………………………… 2020-06-15 | [码农周报第75期](<https://github.com/meibin08/free-programming-books/issues/89>) …………………………… 2020-06-09 |
+| [码农周报第97期](<https://github.com/meibin08/free-programming-books/issues/88>) …………………………… 2020-06-15 | [码农周报第96期](<https://github.com/meibin08/free-programming-books/issues/90>) …………………………… 2020-11-02 |
+| [码农周报第76期](<https://github.com/meibin08/free-programming-books/issues/91>) …………………………… 2020-06-15 | [码农周报第75期](<https://github.com/meibin08/free-programming-books/issues/89>) …………………………… 2020-06-09 |
 | [码农周报第74期](<https://github.com/meibin08/free-programming-books/issues/88>) …………………………… 2020-06-02 | [码农周报第73期](<https://github.com/meibin08/free-programming-books/issues/87>) …………………………… 2020-05-25 |
 | [码农周报第72期](<https://github.com/meibin08/free-programming-books/issues/86>) …………………………… 2020-05-18 | [码农周报第71期](<https://github.com/meibin08/free-programming-books/issues/85>) …………………………… 2020-05-12 |
 | [码农周报第70期](<https://github.com/meibin08/free-programming-books/issues/84>) …………………………… 2020-05-07 | [码农周报第69期](<https://github.com/meibin08/free-programming-books/issues/83>) …………………………… 2020-04-25 |
