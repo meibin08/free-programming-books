@@ -12,7 +12,8 @@
 > [几分钟内提升技能的8个 JavaScript 方法](https://www.javascriptc.com/407.html)
 > 摘要：最常遇到的常见操作是处理集合中的项…
 
-
+> [2020前端开发者11个必备的网站](https://segmentfault.com/a/1190000038153558)
+> 摘要：网上有很多很棒的工具，让作为前端开发人员的我们生活的更加轻松…
 
 
 ## Javascript
