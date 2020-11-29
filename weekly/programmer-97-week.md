@@ -39,6 +39,6 @@
 - 加群主微信：**su-south**,邀请进入前端技术交流群，最新资源也会第一时间在群内公布。
 - **[:lollipop: 去在线查看周报体验更佳](https://www.javascriptc.com/category/javascript-weekly)**
 
-![领略前端技术前沿，尽在 JavaScript头条](https://user-images.githubusercontent.com/18324563/70633966-608b2980-1c6c-11ea-8123-34f1fd13484e.png)
+![领略前端技术前沿，尽在 JavaScript头条](https://user-images.githubusercontent.com/18324563/100540104-2b5d5a00-3276-11eb-90b4-1a8d6a4444b8.png)
 
 > 日期：2020.11.08

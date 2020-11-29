@@ -1,14 +1,14 @@
 
-# [IT平头哥联盟](https://susouth.com/ "@IT·平头哥联盟，码农书籍，苏南的专栏")
+# [前端布道师](https://susouth.com/ "@IT·平头哥联盟，码农书籍，苏南的专栏")
 
 ##  码农周报 2019年第十七、十八周(05-11)
 
-+ `IT平头哥联盟`公众号 [2018年好文汇总推荐～](https://mp.weixin.qq.com/s/-BA4X3ScSSpsZRrUCyTuBw)
++ `前端布道师`公众号 [2018年好文汇总推荐～](https://mp.weixin.qq.com/s/-BA4X3ScSSpsZRrUCyTuBw)
 + 想进微信群的小伙伴加群主：**su-south**,最新资源会第一时间在群内公布。
 + 加群请记得备注暗号：666
 + QQ群：912594095
 #### 扫码进微信群：
-![IT平头哥联盟](https://user-images.githubusercontent.com/18324563/55072435-11916a00-50c6-11e9-86ff-b906d7040c2d.png)
+![前端布道师](https://user-images.githubusercontent.com/18324563/55072435-11916a00-50c6-11e9-86ff-b906d7040c2d.png)
 
 ### 好文推荐：
 + [求职季之你必须要懂的原生JS(中)](https://mp.weixin.qq.com/s/ggxzl4bsn49lyBW4-gniDQ)
@@ -40,10 +40,10 @@
 
 更多精彩
 -------
-+ 博客：[IT平头哥联盟](https://susouth.com "IT平头哥联盟")
++ 博客：[前端布道师](https://susouth.com "前端布道师")
 + 如链接失效，请直接在小程序上阅读，或关注下方**公众号**，联系我获取。
 
-![领略前端技术前沿，阅读IT平头哥联盟，苏南的专栏，书籍，码农书籍，前端开发、React入门，苏南的博客，专注前端开发，关注用户体验，关注国内外最新最好的前端开发技术和前端开发资讯的专业博客，用心分享 与您一起成长，做有温度的攻城狮 前端开发,前端开发工程师,前端资源,JavaScript,HTML5,CSS3,React,ES6,susouth,IT平头哥联盟,苏南,全栈,苏南的专栏](https://user-images.githubusercontent.com/18324563/70633966-608b2980-1c6c-11ea-8123-34f1fd13484e.png)
+![领略前端技术前沿，阅读前端布道师，苏南的专栏，书籍，码农书籍，前端开发、React入门，苏南的博客，专注前端开发，关注用户体验，关注国内外最新最好的前端开发技术和前端开发资讯的专业博客，用心分享 与您一起成长，做有温度的攻城狮 前端开发,前端开发工程师,前端资源,JavaScript,HTML5,CSS3,React,ES6,susouth,前端布道师,苏南,全栈,苏南的专栏](https://user-images.githubusercontent.com/18324563/100540104-2b5d5a00-3276-11eb-90b4-1a8d6a4444b8.png)
 
 
 

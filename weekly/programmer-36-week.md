@@ -33,7 +33,7 @@ Javascript
 -------
 + 想与数十万前端一起交流、成长？
 + 加群主微信：**su-south**,邀请进入前端技术交流群，最新资源也会第一时间在群内公布。
-![领略前端技术前沿，阅读IT平头哥联盟](https://user-images.githubusercontent.com/18324563/70633966-608b2980-1c6c-11ea-8123-34f1fd13484e.png)
+![领略前端技术前沿，阅读前端布道师](https://user-images.githubusercontent.com/18324563/100540104-2b5d5a00-3276-11eb-90b4-1a8d6a4444b8.png)
 
 
 
