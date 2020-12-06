@@ -2,6 +2,9 @@
 
 ## 码农周报推荐
 
+> [漫画 | 前端发展史的江湖恩怨情仇](https://mp.weixin.qq.com/s/eU5Mvf0GROOK7yTGlW2r4A)
+> 摘要：用漫画的形式带你倒回历史的长河，一起领略前端发展史的江湖风云纠纷、恩怨情仇…
+
 > [用 JavaScript 编写模拟器 （兼容多平台](https://javascriptweekly.com/link/87015/web)
 > 摘要：来自芝加哥的开发者 Tania 用 JavaScript 构建了一款 Chip-8 解释器，并详细介绍了其中涉及的内容……
 
