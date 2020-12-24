@@ -17,6 +17,7 @@
 + :snake: [test - 测试类书籍](./test "测试人员电子书籍整理")
 + :ant: [weekly - 周刊](https://github.com/meibin08/free-programming-books/issues/96) -- **推荐**
 + 📚 [程序员必备编程书籍—— 在线免费](https://www.javascriptc.com/books-navigation)
++ :hamster: [一个有趣的程序员漫画](https://github.com/meibin08/comics-program-life)
 + 其他 待拓展……
 
 
