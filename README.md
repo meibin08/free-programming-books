@@ -23,18 +23,18 @@
 职场漫画
 ---------
 
-<a href="https://github.com/meibin08/comics-program-life/issues/3">
-  <img width="518" src="https://i.loli.net/2020/12/27/tsUIB6jRbqAn92m.png" alt="小公司卧薪尝胆三年，意外拿到美团offer"/>
+<a href="https://github.com/meibin08/comics-program-life/issues/4">
+  <img width="318" src="https://i.loli.net/2020/12/27/tsUIB6jRbqAn92m.png" alt="小公司卧薪尝胆三年，意外拿到美团offer"/>
 </a>
 <a href="https://github.com/meibin08/comics-program-life/issues/3">
-  <img width="518" src="https://i.loli.net/2020/12/27/rN1a7jBot4R39xA.png" alt="人到中年一地鸡毛"/>
+  <img width="318" src="https://i.loli.net/2020/12/27/rN1a7jBot4R39xA.png" alt="人到中年一地鸡毛"/>
 </a>
 <a href="https://github.com/meibin08/comics-program-life/issues/1">
-  <img width="518" src="https://i.loli.net/2020/12/27/RnHfzLAoGxplTuh.png" alt="前端发展史的江湖恩怨情仇"/>
+  <img width="318" src="https://i.loli.net/2020/12/27/RnHfzLAoGxplTuh.png" alt="前端发展史的江湖恩怨情仇"/>
 </a>
 
 <a href="https://github.com/meibin08/comics-program-life/issues/2">
-  <img width="518" src="https://i.loli.net/2020/12/27/bVEL6UcYO1Mazit.png" alt="微信诞生记"/>
+  <img width="318" src="https://i.loli.net/2020/12/27/bVEL6UcYO1Mazit.png" alt="微信诞生记"/>
 </a>
 
 
