@@ -23,6 +23,12 @@
 职场漫画
 ---------
 
+<a href="https://github.com/meibin08/comics-program-life/issues/6">
+  <img width="318" src="https://user-images.githubusercontent.com/18324563/104252944-4692ca80-54ae-11eb-97fd-34ee196fcfc0.png" alt="漫画 | 如何向外行解释产品经理频繁更改需求会令程序员很烦恼"/>
+</a>
+<a href="https://github.com/meibin08/comics-program-life/issues/5">
+  <img width="318" src="https://user-images.githubusercontent.com/18324563/103501597-a6271f80-4e89-11eb-9e7e-fd8e58beef37.png" alt="夜深了，程序员的电脑却没关……"/>
+</a>
 <a href="https://github.com/meibin08/comics-program-life/issues/4">
   <img width="318" src="https://i.loli.net/2020/12/27/tsUIB6jRbqAn92m.png" alt="小公司卧薪尝胆三年，意外拿到美团offer"/>
 </a>
